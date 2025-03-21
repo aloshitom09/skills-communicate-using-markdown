@@ -14,3 +14,8 @@ Heading 6
 Added structured Markdown headers for better readability
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+``` javascript
+var myVar = "Hello, world!";
+```
